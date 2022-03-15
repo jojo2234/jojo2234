@@ -3,8 +3,9 @@
 - 🔭 I’m currently working on my homeserver where I host www.propostedilegge.org
 - 🌱 I’m currently learning a painting technique following tutorials by Bob Ross because as a Blender Artist I need to improve my art
 - 🎓 I have learned how to programm in C,C#,Java,Python,VB,GCODE and I'm able to create web services using HTML5,CSS3,JS,PHP,JSP/servlet
-- 💾 I know how to install, use and mantain these operating systems: Debian/Ubuntu, Fedora, OpenBSD, Arch, MS-DOS, Windows from 95 to 11.
-- 📐 My favourite softwares are LibreOffice that I used to write my own tech magazine, GIMP in my opinion better than Photoshop, Inkscape who needs Adobe
+- 💾 I know how to install, use and mantain these operating systems: Debian/Ubuntu, Fedora, OpenBSD, Arch, MS-DOS, Windows from 95 to 11, OS X Catalina (hackintosh).
+- 📐 My favourite softwares are LibreOffice that I used to write my own tech magazine, GIMP in my opinion better than Photoshop, Inkscape and Blender.
+<!-- 📚 Suggested books and litterature are: -->
 
 - 📬 To reach me: info@propostedilegge.org or you can follow me on instagram at [loberry96](https://www.instagram.com/loberry96/) where you can find my 3D art, and on youtube [@loberry](https://www.youtube.com/channel/UCdtkF7XrgIUitLlrR47_f8g)
 
