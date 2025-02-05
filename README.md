@@ -9,9 +9,9 @@
 
 - 📬 To reach me: you can email me at dntpanic[at]users[dot]sourceforge[dot]net or you can follow me on Instagram at [loberry96](https://www.instagram.com/loberry96/) where you can find my 3D art. You can also find me on YouTube [@loberry](https://www.youtube.com/channel/UCdtkF7XrgIUitLlrR47_f8g). Check out my software on [sourceforge](https://sourceforge.net/u/dntpanic/profile/).
 
-Private repositories:
-- e-commerce: A web platform made without frameworks, using only PHP, HTML, CSS, JS (without external libraries), MariaDB
-- Lino_ChessVision: An automatic system to play real chess against computer using a webcam, and a chessboard that move pieces alone. Using OpenCV, Python, PyTorch, C and AML-S905X-CC.
+**Private repositories:**
+- ***e-commerce***: A web platform made without frameworks to perform commerce online, using only PHP, HTML, CSS, JS (without external libraries), MariaDB
+- ***Lino_ChessVision***: An automatic system to play real chess against computer using a webcam, and a chessboard that move pieces alone. Using OpenCV, Python, PyTorch, C on a AML-S905X-CC.
 
 You can read my [articles](https://medium.com/@alessandro_mazzeo) on Medium and support me through [BuyMeACoffee](https://www.buymeacoffee.com/loberry).
 
